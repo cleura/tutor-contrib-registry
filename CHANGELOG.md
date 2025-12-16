@@ -1,3 +1,8 @@
+Unreleased
+----------------------------
+
+* Point release to mark the GitHub repository move.
+
 Version 2.2.0 (2025-07-28)
 ----------------------------
 

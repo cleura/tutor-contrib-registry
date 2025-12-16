@@ -5,6 +5,8 @@ This is an **experimental** plugin for
 [Tutor](https://docs.tutor.overhang.io) that configures access to a 
 private container image registry in a Kubernetes namespace.
 
+This repository was previously hosted under the `hastexo` GitHub organization, and moved to `cleura` in December 2025 as part of a routine repository consolidation.
+
 Version compatibility matrix
 ----------------------------
 
@@ -26,7 +28,7 @@ appropriate one:
 Installation
 ------------
 
-    pip install git+https://github.com/hastexo/tutor-contrib-registry@v2.2.0
+    pip install git+https://github.com/cleura/tutor-contrib-registry@v2.2.0
 
 Usage
 -----

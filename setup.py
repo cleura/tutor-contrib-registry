@@ -13,10 +13,10 @@ def load_readme():
 setup(
     name="tutor-contrib-registry",
     use_scm_version=True,
-    url="https://github.com/hastexo/tutor-contrib-registry",
+    url="https://github.com/cleura/tutor-contrib-registry",
     project_urls={
-        "Code": "https://github.com/hastexo/tutor-contrib-registry",
-        "Issue tracker": "https://github.com/hastexo/tutor-contrib-registry/issues", # noqa
+        "Code": "https://github.com/cleura/tutor-contrib-registry",
+        "Issue tracker": "https://github.com/cleura/tutor-contrib-registry/issues", # noqa
     },
     license="AGPLv3",
     author="Maari Tamm",
