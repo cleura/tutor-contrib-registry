@@ -26,7 +26,7 @@ If you are installing this plugin from a branch in this Git repository, you must
 Run the command below to install the plugin:
 
 ```bash
-pip install git+https://github.com/cleura/tutor-contrib-registry@v2.3.0
+pip install git+https://github.com/cleura/tutor-contrib-registry@v2.4.0
 ```
 
 ## Usage

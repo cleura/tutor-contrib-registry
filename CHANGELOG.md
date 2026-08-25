@@ -1,6 +1,6 @@
 # Changelog
 
-Unreleased
+Version 2.4.0 (2026-08-25)
 ----------------------------
 
 * Support Tutor 22 and Open edX Verawood.
