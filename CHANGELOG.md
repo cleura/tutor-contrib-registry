@@ -1,5 +1,10 @@
 # Changelog
 
+Unreleased
+----------------------------
+
+* Add Python 3.13 and 3.14 to the test matrix.
+
 Version 2.4.0 (2026-08-25)
 ----------------------------
 
